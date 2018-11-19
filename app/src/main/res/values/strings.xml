@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string-array name="backlog_column">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Dropped</item>
+        <item>Stalled</item>
+    </string-array>
+</resources>
